@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "60f8a214c18c1200130b74ae",
+    "title": "Eloquent JavaScript, Third Edition",
+    "authorId": "60f83268c8ca3f338e239ddb",
+    "pages": 472,
+    "contents": [
+      "Introduction",
+      "Program Structure",
+      "Functions",
+      "Data Structures: Objects and Arrays",
+      "Higher-order Functions",
+      "The Secret Life of Objects",
+      "Project: A Robot",
+      "Bugs and Errors",
+      "Regular Expressions",
+      "Modules",
+      "Asynchronous Programming",
+      "Project: A Programming Language",
+      "The Document Object Model",
+      "Handling Events",
+      "Project: A Platform Game",
+      "Drawing on Canvas",
+      "HTTP and Forms",
+      "Project: A Pixel Art Editor",
+      "Project: Skill-Sharing Website"
+    ]
+  },
+  {
+    "_id": "60f8a21405428d30e74d5354",
+    "title": "Practical Modern JavaScript",
+    "authorId": "60f8327b05428d30e74d5178",
+    "pages": 334,
+    "contents": []
+  },
+  {
+    "_id": "60f8a214391dad0012b1f1d8",
+    "title": "Understanding ECMAScript 6",
+    "authorId": "60f8327277bb6d31001c22fb",
+    "pages": 352
+  },
+  {
+    "_id": "60f8a214ff6d6a0013b2e700",
+    "title": "Speaking JavaScript",
+    "authorId": "60f8328305428d30e74d5179",
+    "pages": 460
+  },
+  {
+    "_id": "60f8a214e4f5c10019a6a751",
+    "title": "Learning JavaScript Design Patterns",
+    "authorId": "60f8328af40e2f18e6c20762",
+    "pages": 254
+  },
+  {
+    "_id": "60f8a214391dad0012b1f1da",
+    "title": "You Don't Know JS Yet",
+    "authorId": "60f8325d05428d30e74d5177",
+    "pages": 143
+  },
+  {
+    "_id": "60f8a214e4f5c10019a6a753",
+    "title": "New Perspectives on Web Design",
+    "authorId": "60f8328af40e2f18e6c20762",
+    "pages": 498
+  }
+]
